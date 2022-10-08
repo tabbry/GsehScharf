@@ -4,6 +4,8 @@
 
 "Gseh Scharf" isches giggeli-projekt, inspiriert durch [Roscht](https://github.com/Georg-code/roeschti) für ne übersetzigstabäuä vo de sogenannte [C#-keywords](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/) zu Schwitzerdütschi Begriffe. Weme C# uf Änglisch usspricht tönt das öpe so wi `sii scharp` was glichlig tönt wi "see sharp" was äbä öpe soviu heisst wie "Gseh Scharf".
 
+# Übersetzigstabäuä
+
 Genau. Auso. Das isch ize e so. U zwar gits da sone tabäuä wo uf dr lingge sitä z'Original "keyword" isch, was im Grund gno änglischi wörter si u när gits uf dr rächtä sitä, jewuis, dr schwizerisch Begriff, odr äbe z'Schlüssuwort.
 
 ## Bärndütsch
@@ -134,6 +136,10 @@ Genau. Auso. Das isch ize e so. U zwar gits da sone tabäuä wo uf dr lingge sit
 | where (query clause) | wo |
 | with | mit |
 | yield | ärnt |
+
+## Wie brucht me das ize?
+
+Also ja, im Moment äbä no nid würklech. I ha äbä nume churz Googled ka und nid würklech öpis eifachs gfunge wome die Übersetzigä aus Schlüssuwörter chönt bruche, abr wenn öpr zit und lust het cha ja är odr si das mau probiere. Also irgendwie wirds ganz sicher ga, abr äuä nid mega guet und äuä mit übertribene Umwägä. Abr äbä, wenn mau öper wetti dri luege chaner ja mau bi [Stapuüberfluss](https://stackoverflow.com/questions/11749222/is-there-a-way-to-implement-custom-language-features-in-c) ga nacheläsä.
 
 # Kantönligeist etablierä
 
