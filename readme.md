@@ -141,6 +141,8 @@ Genau. Auso. Das isch ize e so. U zwar gits da sone tabäuä wo uf dr lingge sit
 
 Also ja, im Moment äbä no nid würklech. I ha äbä nume churz Googled ka und nid würklech öpis eifachs gfunge wome die Übersetzigä aus Schlüssuwörter chönt bruche, abr wenn öpr zit und lust het cha ja är odr si das mau probiere. Also irgendwie wirds ganz sicher ga, abr äuä nid mega guet und äuä mit übertribene Umwägä. Abr äbä, wenn mau öper wetti dri luege chaner ja mau bi [Stapuüberfluss](https://stackoverflow.com/questions/11749222/is-there-a-way-to-implement-custom-language-features-in-c) ga nacheläsä.
 
+
+Entsprechendes Pythonskript uusfüerä. Per Gui s z konvertierende File uuswählä und es wird es neus konvertiertes file erzüügt
 # Kantönligeist etablierä
 
 Ursprünglich Author: I dänkä nid e mau dra irgendwie e so ztue aus wüsst ig wi die angere dialäkt iri schlüssuwörter würde schribe, wär auso gern si dialäkt hie wot verewige, darf das gärn mache! 👍
